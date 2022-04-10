@@ -1,5 +1,3 @@
-
-
 **Data Preprocessing**
 
 Preprocess data to train the models
@@ -14,8 +12,10 @@ Preprocess data to train the models
 2. Generate supplement table 1 that shows involvement of genes in autism
 
 **String-score model**
-1. Train String-score model in layer 1 to predict BrainSpan scores
-2. Train integrated-score model in layer 1 that uses STRING, BrainSpan and TADA statistics to predict gene-risk scores
+Train String-score model in layer 1 to predict BrainSpan scores
+
+**Integrated-score model**
+Train integrated-score model in layer 1 that uses STRING, BrainSpan and TADA statistics to predict gene-risk scores
 
 **Final Ensemble Training Model**
 Constructed Random forest algorithm to predict the final autism-risk association gene scores various statistics
@@ -29,3 +29,10 @@ Statistics used to train models:
 6. Krishnan et al scores
 
 Generate supp table 2 that contains gene-risk prediction scores from each fold of cross validation (CV) and the average over five folds.
+
+**Contributors**\
+Carol Navya Pagolu\
+Sravanti Ratnakaram\
+Karthik Gannamaneni\
+Pramod Kumar Varma Manthena
+
