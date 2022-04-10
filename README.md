@@ -1,2 +1,2 @@
 # CIS6930-Project
-Project repo for ML in Genomics class
+Tasks done: The model trained with STRING data was generated. Following this, the model is trained with a combination of the data to generate an integrated score.
