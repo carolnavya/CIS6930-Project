@@ -10,7 +10,7 @@ Statistics used to train models:
 
 Generate supp table 2 that contains gene-risk prediction scores from each fold of cross validation (CV) and the average over five folds.
 
-** Data Preprocessing **
+**Data Preprocessing**
 
 Preprocess data to train the models
 1. Build network graph from STRING Data
