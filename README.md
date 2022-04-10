@@ -9,4 +9,4 @@ Statistics used to train models:
 5. DAMAGES scores
 6. Krishnan et al scores
 
-Obtain gene-risk prediction scores from each fold of cross validation (CV) and the average over five folds.
+Generate supp table 2 that contains gene-risk prediction scores from each fold of cross validation (CV) and the average over five folds.
