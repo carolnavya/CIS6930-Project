@@ -1,2 +1,4 @@
-# CIS6930-Project
-Project repo for ML in Genomics class
+Readme
+
+1. Train BrainSpan-score model in layer 1 to predict BrainSpan scores
+2. Generate supplement table 1 that shows involvement of genes in autism
