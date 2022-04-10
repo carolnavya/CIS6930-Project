@@ -17,3 +17,8 @@ Preprocess data to train the models
 2. Build gene wise expression matrix from BrainSpan data
 3. Handle missing data
 4. Generate training data
+
+**BrainSpan-score model**
+
+1. Train BrainSpan-score model in layer 1 to predict BrainSpan scores
+2. Generate supplement table 1 that shows involvement of genes in autism
